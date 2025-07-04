@@ -1,0 +1,678 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="refactored-metaverse" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3rrw1vjpazcdt" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/Navbar.jsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="46">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#14#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Navbar.jsx","foregroundColor":-8336444,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"80cbc4"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/constants/index.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2346">
+              <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.js","foregroundColor":-8336444,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"80cbc4"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-97,1,10,-100,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,105,110,100,101,120,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JSX Harmony": {
+      "usageCount": 2,
+      "lastUsed": 1728392332281
+    },
+    "JavaScript": {
+      "usageCount": 3,
+      "lastUsed": 1728392365820
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1728391865780
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1728392364089
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/constants/index.js" />
+      <option value="$PROJECT_DIR$/.eslintrc.js" />
+      <option value="$PROJECT_DIR$/components/Navbar.jsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ECMAScript 6">
+      <summary usageCount="2" lastUsage="1728392332281" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1728392364089" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="3" lastUsage="1728392365820" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1728391865781" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="refactored-metaverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactored-metaverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/constants}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactored-metaverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactored-metaverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/styles}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="refactored-metaverse" />
+            <item name="refactored-metaverse" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="refactored-metaverse" />
+              <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.next" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".next" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/.next}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="components" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/components}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/constants" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="constants" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/constants}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/constants/index.js" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="index.js" />
+                  <item name="index.js" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pages" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="pages" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/pages}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="public" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/public}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/arrow.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="arrow.svg" />
+                  <item name="arrow.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/arrow-down.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="arrow-down.svg" />
+                  <item name="arrow-down.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/cover.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="cover.png" />
+                  <item name="cover.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/facebook.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="facebook.svg" />
+                  <item name="facebook.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/favicon.ico" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="favicon.ico" />
+                  <item name="favicon.ico" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/get-started.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="get-started.png" />
+                  <item name="get-started.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/headset.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="headset.svg" />
+                  <item name="headset.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/instagram.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="instagram.svg" />
+                  <item name="instagram.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/linkedin.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="linkedin.svg" />
+                  <item name="linkedin.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/logo.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="logo.svg" />
+                  <item name="logo.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/map.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="map.png" />
+                  <item name="map.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/menu.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="menu.svg" />
+                  <item name="menu.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/people-01.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="people-01.png" />
+                  <item name="people-01.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/people-02.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="people-02.png" />
+                  <item name="people-02.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/people-03.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="people-03.png" />
+                  <item name="people-03.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-01.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-01.png" />
+                  <item name="planet-01.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-02.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-02.png" />
+                  <item name="planet-02.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-03.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-03.png" />
+                  <item name="planet-03.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-04.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-04.png" />
+                  <item name="planet-04.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-05.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-05.png" />
+                  <item name="planet-05.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-06.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-06.png" />
+                  <item name="planet-06.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-07.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-07.png" />
+                  <item name="planet-07.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-08.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-08.png" />
+                  <item name="planet-08.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/planet-09.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="planet-09.png" />
+                  <item name="planet-09.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/search.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="search.svg" />
+                  <item name="search.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/stamp.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="stamp.png" />
+                  <item name="stamp.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/twitter.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="twitter.svg" />
+                  <item name="twitter.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/vercel.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="vercel.svg" />
+                  <item name="vercel.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/vrpano.svg" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="vrpano.svg" />
+                  <item name="vrpano.svg" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/whats-new.png" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="whats-new.png" />
+                  <item name="whats-new.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/sections" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="sections" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/sections}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/starter_repo" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="starter_repo" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/starter_repo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/styles" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="styles" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/styles}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/styles/globals.css" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="globals.css" />
+                  <item name="globals.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/styles/index.js" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="index.js" />
+                  <item name="index.js" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/utils" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="utils" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse/utils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="next.config.js" />
+                <item name="next.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-lock.yaml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pnpm-lock.yaml" />
+                <item name="pnpm-lock.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/postcss.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="postcss.config.js" />
+                <item name="postcss.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tailwind.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tailwind.config.js" />
+                <item name="tailwind.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="614000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3305" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.3305" left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="304" width="540" height="548" key="StructurePopup" timestamp="1728391869622">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="689" y="304" width="540" height="548" key="StructurePopup/0.31.1920.1049@0.31.1920.1049" timestamp="1728391869622" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

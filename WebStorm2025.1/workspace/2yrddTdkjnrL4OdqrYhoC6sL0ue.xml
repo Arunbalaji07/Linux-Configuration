@@ -1,0 +1,201 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bidvouch" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="121jrpj4z2mjy" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 3,
+      "lastUsed": 1750597117452
+    },
+    "tsconfig": {
+      "usageCount": 4,
+      "lastUsed": 1750597090861
+    },
+    "Project Details": {
+      "usageCount": 4,
+      "lastUsed": 1750597064450
+    },
+    "JavaScript": {
+      "usageCount": 3,
+      "lastUsed": 1750597093866
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1750596858585
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1750596730445
+    },
+    "NxGraph": {
+      "usageCount": 1,
+      "lastUsed": 1750597047016
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1750596713542
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/arun/WebstormProjects/bidvouch/apps/bidvouch-backend/src/main.ts",
+    "/home/arun/WebstormProjects/bidvouch/apps/bidvouch-backend/webpack.config.js",
+    "/home/arun/WebstormProjects/bidvouch/apps/bidvouch-backend/jest.config.ts"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1750597090861" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="3" lastUsage="1750597093866" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1750596713542" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="3" lastUsage="1750597117452" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1750596730445" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4817708" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Web Inspector" order="6" />
+      <window_info anchor="right" id="Nx Console" order="7" weight="0.32994792" />
+      <unified_weights bottom="0.33031458" left="0.4817708" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Nx Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom" timestamp="1750597135626">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1750597135626" />
+    <state width="1838" height="301" key="GridCell.Tab.0.center" timestamp="1750597135626">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1750597135626" />
+    <state width="1838" height="301" key="GridCell.Tab.0.left" timestamp="1750597135626">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1750597135626" />
+    <state width="1838" height="301" key="GridCell.Tab.0.right" timestamp="1750597135626">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1750597135626" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/tsconfig.app.json">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/src/assets/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/.spec.swcrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/eslint.config.mjs">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/package.json">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/jest.config.ts">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/webpack.config.js">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/tsconfig.spec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/tsconfig.json">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-backend/project.json">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+  </component>
+</project>

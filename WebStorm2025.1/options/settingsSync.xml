@@ -1,0 +1,22 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="com.intellij.kubernetes" />
+              <option value="com.intellij.ml.llm" />
+              <option value="com.junkfactory.tokyodark" />
+              <option value="jones.restarteslintaction.restart-eslint-action" />
+              <option value="mobi.hsz.idea.gitignore" />
+              <option value="org.intellij.prisma" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>

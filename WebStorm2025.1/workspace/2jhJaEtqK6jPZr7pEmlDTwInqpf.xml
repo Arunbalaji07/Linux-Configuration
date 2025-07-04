@@ -1,0 +1,244 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Aora" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="6l5ao0xu9xon" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/(tabs)/_layout.jsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="253">
+              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/(tabs)/home.jsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JSX Harmony": {
+      "usageCount": 26,
+      "lastUsed": 1723039687184
+    },
+    "JavaScript": {
+      "usageCount": 3,
+      "lastUsed": 1721837122029
+    },
+    "TypeScript JSX": {
+      "usageCount": 1,
+      "lastUsed": 1721833617149
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1721839285031
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/Profile.jsx" />
+      <option value="$PROJECT_DIR$/app/profile.jsx" />
+      <option value="$PROJECT_DIR$/babel.config.js" />
+      <option value="$PROJECT_DIR$/tailwind.config.js" />
+      <option value="$PROJECT_DIR$/app/_layout.jsx" />
+      <option value="$PROJECT_DIR$/app/index.jsx" />
+      <option value="$PROJECT_DIR$/app/(tabs)/_layout.jsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ECMAScript 6">
+      <summary usageCount="26" lastUsage="1723039687184" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="3" lastUsage="1721837122029" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="1" lastUsage="1721833617149" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/AndroidStudioProjects/Aora}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2643229" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3296875" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.33031458" left="0.2643229" right="0.3296875" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Terminal</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor" timestamp="1721834149256">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1721834149256" />
+    <state width="498" height="554" key="SwitcherDM" timestamp="1721837121989">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="554" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1721837121989" />
+    <state x="1104" y="256" key="run.anything.popup" timestamp="1721837906526">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1104" y="256" key="run.anything.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1721837906526" />
+    <state x="1103" y="248" width="672" height="712" key="search.everywhere.popup" timestamp="1721836843399">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1103" y="248" width="672" height="712" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1721836843399" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app-old/_layout.tsx" />
+    <entry file="file://$PROJECT_DIR$/profile.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tailwind.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/profile.jsx" />
+    <entry file="file://$PROJECT_DIR$/app/_layout.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/_layout.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/sign-in.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(tabs)/create.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(tabs)/home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(tabs)/_layout.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

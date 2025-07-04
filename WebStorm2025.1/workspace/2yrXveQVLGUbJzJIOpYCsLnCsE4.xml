@@ -1,0 +1,451 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bidvouch" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="ynuavqqfttt9" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 1,
+      "lastUsed": 1750594179125
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1750594240606
+    },
+    "tsconfig": {
+      "usageCount": 2,
+      "lastUsed": 1750593963194
+    },
+    "Project Details": {
+      "usageCount": 3,
+      "lastUsed": 1750594246751
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1750594232171
+    },
+    "JavaScript": {
+      "usageCount": 2,
+      "lastUsed": 1750594242942
+    },
+    "EditorConfig": {
+      "usageCount": 1,
+      "lastUsed": 1750594229101
+    },
+    "JSON": {
+      "usageCount": 3,
+      "lastUsed": 1750594242241
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1750593901402
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1750593901148
+    },
+    "YAML": {
+      "usageCount": 1,
+      "lastUsed": 1750594138525
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1750594229101" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1750594232171" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1750594246751" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="2" lastUsage="1750594242942" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1750593901402" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1750594240606" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="1" lastUsage="1750594179125" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1750594138525" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bidvouch" />
+            <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bidvouch" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.angular" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".angular" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.angular}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".github" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nx" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".nx" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.nx}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/apps" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="apps" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.npmrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".npmrc" />
+                <item name=".npmrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierignore" />
+                <item name=".prettierignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.mjs" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="eslint.config.mjs" />
+                <item name="eslint.config.mjs" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jest.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="jest.config.ts" />
+                <item name="jest.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jest.preset.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="jest.preset.js" />
+                <item name="jest.preset.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/nx.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="nx.json" />
+                <item name="nx.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-lock.yaml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pnpm-lock.yaml" />
+                <item name="pnpm-lock.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.base.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.base.json" />
+                <item name="tsconfig.base.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="776000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.43697917" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" weight="0.23678571" />
+      <window_info anchor="right" id="Web Inspector" order="7" />
+      <window_info anchor="right" id="Nx Console" order="8" />
+      <unified_weights bottom="0.33031458" left="0.43697917" right="0.23678571" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom" timestamp="1750594022645">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1750594022645" />
+    <state width="1838" height="301" key="GridCell.Tab.0.center" timestamp="1750594022645">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1750594022645" />
+    <state width="1838" height="301" key="GridCell.Tab.0.left" timestamp="1750594022645">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1750594022645" />
+    <state width="1838" height="301" key="GridCell.Tab.0.right" timestamp="1750594022645">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="1838" height="301" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1750594022645" />
+    <state x="834" y="429" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1750594055200">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="834" y="429" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.31.1920.1049@0.31.1920.1049" timestamp="1750594055200" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-frontend/tsconfig.spec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-frontend/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch-frontend/project.json">
+      <provider selected="true" editor-type-id="project-details-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jest.preset.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jest.config.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/extensions.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eslint.config.mjs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

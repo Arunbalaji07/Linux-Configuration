@@ -1,0 +1,21 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="ad9bf6" />
+      </MTAccentConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="userId" value="-4c2a0475:190bf8b02bc:-8000" />
+        <option name="version" value="9.7.0" />
+        <option name="wizardShown" value="true" />
+      </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="SPACE" />
+      </MTThemeConfigState>
+    </option>
+  </component>
+</application>

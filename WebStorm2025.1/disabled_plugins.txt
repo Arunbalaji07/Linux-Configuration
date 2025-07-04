@@ -1,0 +1,7 @@
+XPathView
+com.intellij.aqua
+com.intellij.ml.llm
+com.intellij.properties
+mobi.hsz.idea.gitignore
+org.jetbrains.plugins.github
+org.jetbrains.plugins.gitlab

@@ -1,0 +1,465 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="docker-course" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3gqktjvqkuka8" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;Dockerfile&quot;: {
+      &quot;usageCount&quot;: 34,
+      &quot;lastUsed&quot;: 1730203288154
+    },
+    &quot;JavaScript&quot;: {
+      &quot;usageCount&quot;: 8,
+      &quot;lastUsed&quot;: 1730201736678
+    },
+    &quot;JSON&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1730203802525
+    },
+    &quot;DockerIgnore file&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1730165244852
+    },
+    &quot;JSON5&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1730201736450
+    },
+    &quot;YAML&quot;: {
+      &quot;usageCount&quot;: 3,
+      &quot;lastUsed&quot;: 1730205638505
+    },
+    &quot;PLAIN_TEXT&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1730181765672
+    },
+    &quot;Markdown&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1730181771073
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/node-app/index.js" />
+      <option value="$PROJECT_DIR$/node-app/Dockerfile" />
+      <option value="$PROJECT_DIR$/node-dependency-app/index.js" />
+      <option value="$PROJECT_DIR$/node-dependency-app/Dockerfile" />
+      <option value="$PROJECT_DIR$/alpine-linux/index.js" />
+      <option value="$PROJECT_DIR$/alpine-linux/package.json" />
+      <option value="$PROJECT_DIR$/static-assests-project/.dockerignore" />
+      <option value="$PROJECT_DIR$/static-assests-project/Dockerfile" />
+      <option value="$PROJECT_DIR$/volumes/index.js" />
+      <option value="$PROJECT_DIR$/volumes/Dockerfile" />
+      <option value="$PROJECT_DIR$/alpine-linux/Dockerfile" />
+      <option value="$PROJECT_DIR$/alpine-linux/.devcontainer/Dockerfile" />
+      <option value="$PROJECT_DIR$/alpine-linux/.devcontainer/devcontainer.json" />
+      <option value="$PROJECT_DIR$/networking/index.js" />
+      <option value="$PROJECT_DIR$/networking/Dockerfile" />
+      <option value="$PROJECT_DIR$/networking/package.json" />
+      <option value="$PROJECT_DIR$/networking/docker-compose.yml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="DockerIgnore">
+      <summary usageCount="1" lastUsage="1730165244852" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="34" lastUsage="1730203288154" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1730203802525" />
+    </language>
+    <language id="JSON5">
+      <summary usageCount="4" lastUsage="1730201736455" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="8" lastUsage="1730201736678" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1730181771073" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1730181765672" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1730205638509" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="docker-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/docker-course}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/docker-course}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/docker-course/networking}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="docker-course" />
+            <item name="docker-course" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="docker-course" />
+              <item name="dir{file:///home/arun/WebstormProjects/docker-course}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/alpine-linux" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="alpine-linux" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/alpine-linux}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/networking" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="networking" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/networking}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/node_modules" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="node_modules" />
+                  <item name="dir{file:///home/arun/WebstormProjects/docker-course/networking/node_modules}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/docker-compose.yml" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="docker-compose.yml" />
+                  <item name="docker-compose.yml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/Dockerfile" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="Dockerfile" />
+                  <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/index.js" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="index.js" />
+                  <item name="index.js" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/package.json" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="package.json" />
+                  <item name="package.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/networking/package-lock.json" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="package-lock.json" />
+                  <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node-app" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="node-app" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/node-app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node-dependency-app" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="node-dependency-app" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/node-dependency-app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/static-assests-project" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="static-assests-project" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/static-assests-project}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/volumes" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="volumes" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course/volumes}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/networking">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18605000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16484375" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28932315" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.28932315" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.28932315" left="0.16484375" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="876" height="258" key="GridCell.Tab.0.bottom" timestamp="1730163993979">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="258" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1730163993979" />
+    <state width="876" height="258" key="GridCell.Tab.0.center" timestamp="1730163993979">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="258" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1730163993979" />
+    <state width="876" height="258" key="GridCell.Tab.0.left" timestamp="1730163993979">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="258" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1730163993979" />
+    <state width="876" height="258" key="GridCell.Tab.0.right" timestamp="1730163993979">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="258" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1730163993979" />
+    <state x="760" y="163" width="1016" height="736" key="SettingsEditor" timestamp="1730124453959">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="760" y="163" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1730124453959" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node-app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-dependency-app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpine-linux/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpine-linux/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static-assests-project/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volumes/.devcontainer/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/volumes/.devcontainer/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/volumes/.devcontainer/devcontainer.json" />
+    <entry file="file://$PROJECT_DIR$/static-assests-project/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volumes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volumes/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hugo-example/config.toml" />
+    <entry file="file://$PROJECT_DIR$/hugo-example/archetypes/default.md" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static-assests-project/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-app/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpine-linux/.devcontainer/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-dependency-app/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpine-linux/.devcontainer/devcontainer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alpine-linux/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networking/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networking/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networking/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networking/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

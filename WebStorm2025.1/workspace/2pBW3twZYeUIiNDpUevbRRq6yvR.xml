@@ -1,0 +1,303 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="WebstormProjects" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="WebstormProjects" />
+            <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="WebstormProjects" />
+              <item name="dir{file:///home/arun/WebstormProjects}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/arun/WebstormProjects/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/3D-Portfolio" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="3D-Portfolio" />
+                <item name="dir{file:///home/arun/WebstormProjects/3D-Portfolio}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Airbnb-Clone" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Airbnb-Clone" />
+                <item name="dir{file:///home/arun/WebstormProjects/Airbnb-Clone}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Airline-X" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Airline-X" />
+                <item name="dir{file:///home/arun/WebstormProjects/Airline-X}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/api-design" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="api-design" />
+                <item name="dir{file:///home/arun/WebstormProjects/api-design}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/certificate" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="certificate" />
+                <item name="dir{file:///home/arun/WebstormProjects/certificate}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/chatgpt-clone" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="chatgpt-clone" />
+                <item name="dir{file:///home/arun/WebstormProjects/chatgpt-clone}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/docker-course" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="docker-course" />
+                <item name="dir{file:///home/arun/WebstormProjects/docker-course}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/GUVI-Task" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="GUVI-Task" />
+                <item name="dir{file:///home/arun/WebstormProjects/GUVI-Task}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/John Smilga" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="John Smilga" />
+                <item name="dir{file:///home/arun/WebstormProjects/John Smilga}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/junkee" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="junkee" />
+                <item name="dir{file:///home/arun/WebstormProjects/junkee}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/junkee-new" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="junkee-new" />
+                <item name="dir{file:///home/arun/WebstormProjects/junkee-new}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next-auth" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="next-auth" />
+                <item name="dir{file:///home/arun/WebstormProjects/next-auth}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Next-JS" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Next-JS" />
+                <item name="dir{file:///home/arun/WebstormProjects/Next-JS}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/open-ai-api" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="open-ai-api" />
+                <item name="dir{file:///home/arun/WebstormProjects/open-ai-api}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/portfolio" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="portfolio" />
+                <item name="dir{file:///home/arun/WebstormProjects/portfolio}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Proctored-Assessment-Portal" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Proctored-Assessment-Portal" />
+                <item name="dir{file:///home/arun/WebstormProjects/Proctored-Assessment-Portal}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/project_metaverse" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="project_metaverse" />
+                <item name="dir{file:///home/arun/WebstormProjects/project_metaverse}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/React" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="React" />
+                <item name="dir{file:///home/arun/WebstormProjects/React}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/refactored-metaverse" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="refactored-metaverse" />
+                <item name="dir{file:///home/arun/WebstormProjects/refactored-metaverse}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/TheCloset" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="TheCloset" />
+                <item name="dir{file:///home/arun/WebstormProjects/TheCloset}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/TypeScript" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="TypeScript" />
+                <item name="dir{file:///home/arun/WebstormProjects/TypeScript}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/verdict-ai-web-react" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="verdict-ai-web-react" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai-web-react}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/verdict-web" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="verdict-web" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-web}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/VerdictAI" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="VerdictAI" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+</project>

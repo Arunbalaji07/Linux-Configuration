@@ -1,0 +1,195 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Aora" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3pqexyqopr29w">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="299">
+              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/_layout.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="161">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="299">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript JSX": {
+      "usageCount": 3,
+      "lastUsed": 1721833276681
+    },
+    "JSON": {
+      "usageCount": 2,
+      "lastUsed": 1721832953220
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app.json" />
+      <option value="$PROJECT_DIR$/app/_layout.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1721832953220" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="3" lastUsage="1721833276681" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/AndroidStudioProjects/Aora}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/AndroidStudioProjects/Aora}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/AndroidStudioProjects/Aora/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2280000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3619792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.33031458" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33035713" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="4" />
+      <unified_weights bottom="0.33031458" left="0.3619792" right="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Find</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="240" width="800" height="636" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1721830631978">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="555" y="240" width="800" height="636" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1721830631978" />
+    <state x="452" y="190" width="1016" height="736" key="SettingsEditor" timestamp="1721829971328">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="452" y="190" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1721829971328" />
+    <state x="1103" y="248" width="672" height="712" key="search.everywhere.popup" timestamp="1721832953178">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1103" y="248" width="672" height="712" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1721832953178" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-example/(tabs)/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/_layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

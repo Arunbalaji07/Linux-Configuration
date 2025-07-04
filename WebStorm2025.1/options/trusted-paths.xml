@@ -1,0 +1,47 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Aora" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/React-Native-Basics" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Verdict-AI" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/VerdictAI" value="true" />
+        <entry key="$USER_HOME$/Downloads/Portfolio" value="true" />
+        <entry key="$USER_HOME$/Downloads/verdict-ai-web" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/Airbnb-Clone" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/GUVI-Task" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/Portfolio" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/Proctored-Assessment-Portal" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/Verdict" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/VerdictAI" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/apex" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/bidvouch" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/certificate" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/docker-course" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/junkee" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/junkee-new" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/metaverse" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/netflix-clone" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/next-auth" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/open-ai-api" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/portfolio" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/react_native" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/refactored-metaverse" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/server-side-graphql" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/verdict-ai" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/verdict-ai-web-react" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/verdict-web" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects" />
+        <option value="$USER_HOME$/AndroidStudioProjects" />
+      </list>
+    </option>
+  </component>
+</application>

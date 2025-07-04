@@ -1,0 +1,628 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bidvouch" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="121jrpj4z2mjy">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-108,1,10,-111,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,114,101,97,100,109,101,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/eslint.config.mjs">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"eslint.config.mjs","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,101,115,108,105,110,116,99,111,110,102,105,103,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.spec.ts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.spec.ts","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-108,1,10,-111,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,101,115,116,116,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.ts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.ts","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-108,1,10,-111,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,111,100,101,106,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.config.ts">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.config.ts","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-110,1,10,-113,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,101,120,112,111,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.css">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.css","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-111,1,10,-114,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,99,115,115,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.html">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app.html","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-110,1,10,-113,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,104,116,109,108,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/nx-welcome.ts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-2691" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"nx-welcome.ts","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-104,1,10,-107,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,49,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,49,48,49,46,50,46,48,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 5,
+      "lastUsed": 1750604251196
+    },
+    "CSS": {
+      "usageCount": 1,
+      "lastUsed": 1750604244739
+    },
+    "JavaScript": {
+      "usageCount": 1,
+      "lastUsed": 1750604225690
+    },
+    "HTML": {
+      "usageCount": 1,
+      "lastUsed": 1750604245736
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1750604197335
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1750604244739" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1750604245736" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1750604225690" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1750604197337" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="5" lastUsage="1750604251196" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/src/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bidvouch" />
+            <item name="bidvouch" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bidvouch" />
+              <item name="dir{file:///home/arun/WebstormProjects/bidvouch}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.angular" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".angular" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.angular}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".github" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nx" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".nx" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.nx}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/apps" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="apps" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/nodes/folderOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="bidvouch" />
+                  <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/public" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="public" />
+                    <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/public}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="src" />
+                    <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/src}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="false" text="app" />
+                      <item name="dir{file:///home/arun/WebstormProjects/bidvouch/apps/bidvouch/src/app}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.config.ts" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.config.ts" />
+                        <item name="app.config.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.css" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.css" />
+                        <item name="app.css" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.html" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.html" />
+                        <item name="app.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.routes.ts" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.routes.ts" />
+                        <item name="app.routes.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.spec.ts" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.spec.ts" />
+                        <item name="app.spec.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/app.ts" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="app.ts" />
+                        <item name="app.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/app/nx-welcome.ts" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="nx-welcome.ts" />
+                        <item name="nx-welcome.ts" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/index.html" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="index.html" />
+                      <item name="index.html" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/main.ts" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="main.ts" />
+                      <item name="main.ts" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/styles.css" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="styles.css" />
+                      <item name="styles.css" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/src/test-setup.ts" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="true" text="test-setup.ts" />
+                      <item name="test-setup.ts" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/eslint.config.mjs" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="eslint.config.mjs" />
+                    <item name="eslint.config.mjs" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/jest.config.ts" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="jest.config.ts" />
+                    <item name="jest.config.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/project.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="project.json" />
+                    <item name="project.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/tsconfig.app.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="tsconfig.app.json" />
+                    <item name="tsconfig.app.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/tsconfig.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="tsconfig.json" />
+                    <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/apps/bidvouch/tsconfig.spec.json" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="true" text="tsconfig.spec.json" />
+                    <item name="tsconfig.spec.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/arun/WebstormProjects/bidvouch/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.npmrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".npmrc" />
+                <item name=".npmrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierignore" />
+                <item name=".prettierignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.mjs" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="eslint.config.mjs" />
+                <item name="eslint.config.mjs" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jest.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="jest.config.ts" />
+                <item name="jest.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jest.preset.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="jest.preset.js" />
+                <item name="jest.preset.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/nx.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="nx.json" />
+                <item name="nx.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-lock.yaml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pnpm-lock.yaml" />
+                <item name="pnpm-lock.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.base.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.base.json" />
+                <item name="tsconfig.base.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/..">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Web Inspector" order="6" />
+      <window_info anchor="right" id="Nx Console" order="7" />
+      <unified_weights bottom="0.3305" left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/jest.config.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/eslint.config.mjs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.config.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/app.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/bidvouch/src/app/nx-welcome.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2691" />
+      </provider>
+    </entry>
+  </component>
+</project>

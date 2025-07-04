@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
+    <disabledLanguages>
+      <language id="JavaScript" />
+    </disabledLanguages>
+  </component>
+</application>

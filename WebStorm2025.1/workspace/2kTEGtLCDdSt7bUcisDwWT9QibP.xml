@@ -1,0 +1,353 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="certificate" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="ye8058b4re1z" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JSX Harmony&quot;: {
+      &quot;usageCount&quot;: 88,
+      &quot;lastUsed&quot;: 1728912040438
+    },
+    &quot;CSS&quot;: {
+      &quot;usageCount&quot;: 2,
+      &quot;lastUsed&quot;: 1723299194885
+    },
+    &quot;GitIgnore file&quot;: {
+      &quot;usageCount&quot;: 9,
+      &quot;lastUsed&quot;: 1728910437020
+    },
+    &quot;JavaScript&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1723299169264
+    },
+    &quot;HTML&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1723300132449
+    },
+    &quot;JSON&quot;: {
+      &quot;usageCount&quot;: 10,
+      &quot;lastUsed&quot;: 1728910436914
+    },
+    &quot;DIFF&quot;: {
+      &quot;usageCount&quot;: 4,
+      &quot;lastUsed&quot;: 1728911790699
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main.jsx" />
+      <option value="$PROJECT_DIR$/src/App.css" />
+      <option value="$PROJECT_DIR$/tailwind.config.js" />
+      <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/src/index.css" />
+      <option value="$PROJECT_DIR$/src/Pages/Home.jsx" />
+      <option value="$PROJECT_DIR$/vercel.json" />
+      <option value="$PROJECT_DIR$/src/App.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Gayathri.jsx" />
+      <option value="$PROJECT_DIR$/src/Components/Structure.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Arun.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/AK.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Barath.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Calvin.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Dhana.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Dilip.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/NX.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Tanya.jsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Thej.jsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1723299194885" />
+    </language>
+    <language id="ECMAScript 6">
+      <summary usageCount="88" lastUsage="1728912040438" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="9" lastUsage="1728910437021" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1723300132449" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="10" lastUsage="1728910436915" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1723299169264" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/src/Pages" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (4)" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="3" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14207000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25234374" />
+      <window_info id="Commit" order="1" weight="0.25234374" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.315062" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.42087704" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32992426" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.42087704" left="0.25234374" right="0.32992426" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Notifications</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="427" width="683" height="281" key="#ESLint" timestamp="1723300094735">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="836" y="427" width="683" height="281" key="#ESLint/0.31.1920.1049@0.31.1920.1049" timestamp="1723300094735" />
+    <state x="555" y="240" width="800" height="636" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1723385397293">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="555" y="240" width="800" height="636" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1723385397293" />
+    <state x="766" y="278" width="378" height="560" key="RollbackChangesDialog" timestamp="1723383902959">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="766" y="278" width="378" height="560" key="RollbackChangesDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1723383902959" />
+    <state width="498" height="582" key="SwitcherDM" timestamp="1723306455206">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="582" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1723306455206" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tailwind.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vercel.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Structure.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="86" lean-forward="true" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Gayathri.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/AK.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Barath.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Calvin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Dhana.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Dilip.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/NX.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Tanya.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Thej.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Arun.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="29" column="73" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,643 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="VerdictAI" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="wucfaxnifi1d" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/(auth)/(modal)/settings.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="115">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"settings.tsx","foregroundColor":-3938163,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"c3e88d"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/_layout.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="230">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"(drawer)/_layout.tsx","foregroundColor":-3938163,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"c3e88d"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-91,1,10,-94,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,101,120,116,45,108,97,121,111,117,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/explore.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="115">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"explore.tsx","foregroundColor":-3938163,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"c3e88d"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/dalle.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="230">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"dalle.tsx","foregroundColor":-559511,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"f77669"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/_layout.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"app/_layout.tsx","foregroundColor":-1052687,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"ff5370"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-91,1,10,-94,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,101,120,116,45,108,97,121,111,117,116,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/login.tsx">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="23">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"login.tsx","foregroundColor":-8336444,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"80cbc4"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,106,115,120,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 10,
+      "lastUsed": 1731121735728
+    },
+    "TypeScript JSX": {
+      "usageCount": 67,
+      "lastUsed": 1731121880924
+    },
+    "JavaScript": {
+      "usageCount": 4,
+      "lastUsed": 1723728295666
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1723389946573
+    },
+    "GitIgnore file": {
+      "usageCount": 7,
+      "lastUsed": 1731118855297
+    },
+    "DIFF": {
+      "usageCount": 2,
+      "lastUsed": 1723786728194
+    },
+    ".env file": {
+      "usageCount": 9,
+      "lastUsed": 1731118855295
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1724762485546
+    },
+    "JSON": {
+      "usageCount": 2,
+      "lastUsed": 1731120245585
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>e</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/babel.config.js" />
+      <option value="$PROJECT_DIR$/constants/Styles.ts" />
+      <option value="$PROJECT_DIR$/constants/Colors.ts" />
+      <option value="$PROJECT_DIR$/app/index.tsx" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/components/AnimatedIntro.tsx" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/app/(auth)/_layout.tsx" />
+      <option value="$PROJECT_DIR$/app/_layout.tsx" />
+      <option value="$PROJECT_DIR$/app/(auth)/index.tsx" />
+      <option value="$PROJECT_DIR$/components/BottomLoginSheet.tsx" />
+      <option value="$PROJECT_DIR$/app/login.tsx" />
+      <option value="$PROJECT_DIR$/app/(auth)/(modal)/settings.tsx" />
+      <option value="$PROJECT_DIR$/app/(auth)/(drawer)/_layout.tsx" />
+      <option value="$PROJECT_DIR$/app/(auth)/(drawer)/dalle.ts" />
+      <option value="$PROJECT_DIR$/app/(auth)/(drawer)/explore.tsx" />
+      <option value="$PROJECT_DIR$/app/(auth)/(drawer)/dalle.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="DotEnv">
+      <summary usageCount="9" lastUsage="1731118855295" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="7" lastUsage="1731118855297" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1731120245585" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="4" lastUsage="1723728295666" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1723389946574" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="10" lastUsage="1731121735728" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="67" lastUsage="1731121880924" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VerdictAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/VerdictAI}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VerdictAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/VerdictAI}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="VerdictAI" />
+            <item name="VerdictAI" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="VerdictAI" />
+              <item name="dir{file:///home/arun/WebstormProjects/VerdictAI}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.expo" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".expo" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/.expo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/android" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="android" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/android}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/(auth)" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/nodes/folderOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="(auth)" />
+                  <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/app/(auth)}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/_layout.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="_layout.tsx" />
+                  <item name="_layout.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/index.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="index.tsx" />
+                  <item name="index.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/login.tsx" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="login.tsx" />
+                  <item name="login.tsx" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/assets" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="assets" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/assets}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="components" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/components}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/constants" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="constants" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/constants}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hooks" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="hooks" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/hooks}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ios" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="ios" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/ios}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/scripts" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="scripts" />
+                <item name="dir{file:///home/arun/WebstormProjects/VerdictAI/scripts}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="app.json" />
+                <item name="app.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/babel.config.js" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="babel.config.js" />
+                <item name="babel.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/expo-env.d.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="expo-env.d.ts" />
+                <item name="expo-env.d.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25052083" />
+      <window_info id="Commit" order="1" weight="0.17760417" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3903718" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3903718" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3903718" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32989183" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.3903718" left="0.25052083" right="0.32989183" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor" timestamp="1731121321635">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1731121321635" />
+    <state width="498" height="582" key="SwitcherDM" timestamp="1731120776293">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="582" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1731120776293" />
+    <state x="1245" y="386" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1723733137595">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1245" y="386" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.31.1920.1049@0.31.1920.1049" timestamp="1723733137595" />
+    <state x="1034" y="255" width="672" height="182" key="search.everywhere.popup" timestamp="1723774142475">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1034" y="255" width="672" height="182" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1723774142475" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/Styles.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/Colors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AnimatedIntro.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="162" column="37" selection-start-line="162" selection-start-column="37" selection-end-line="162" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@clerk/clerk-react/dist/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2120">
+          <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/BottomLoginSheet.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-961">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/_layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/(chat)/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(modal)/settings.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/_layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/explore.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(drawer)/dalle.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/_layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

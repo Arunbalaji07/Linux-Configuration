@@ -1,0 +1,10 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="SPACE" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="CUSTOM" scheme="Material Oceanic" />
+      <laf-to-scheme laf="Darcula" scheme="Material Deep Ocean" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Material Space" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

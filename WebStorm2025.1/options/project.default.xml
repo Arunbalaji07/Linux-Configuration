@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MaterialThemeProjectNewConfig">
+        <option name="metadata">
+          <MTProjectMetadataState>
+            <option name="migrated" value="true" />
+            <option name="pristineConfig" value="false" />
+            <option name="userId" value="-4c2a0475:190bf8b02bc:-7ffe" />
+          </MTProjectMetadataState>
+        </option>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="424" y="180" key="SettingsEditor" timestamp="1750782160070">
+          <screen x="0" y="31" width="1920" height="1049" />
+        </state>
+        <state x="424" y="180" key="SettingsEditor/0.31.1920.1049" timestamp="1750782160070" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,916 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="verdict-ai" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="BRANCH:main" type="5dcd9098:BranchNodeDescriptor$Branch" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3rmnzp6j8skje" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 61,
+      "lastUsed": 1736142629747
+    },
+    "CSS": {
+      "usageCount": 10,
+      "lastUsed": 1735821484544
+    },
+    "TypeScript JSX": {
+      "usageCount": 164,
+      "lastUsed": 1746849131477
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 3,
+      "lastUsed": 1735907615587
+    },
+    "JSON": {
+      "usageCount": 10,
+      "lastUsed": 1736061331769
+    },
+    "Image": {
+      "usageCount": 8,
+      "lastUsed": 1735702970200
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1735648948310
+    },
+    "JSX": {
+      "usageCount": 2,
+      "lastUsed": 1736061959278
+    },
+    ".env file": {
+      "usageCount": 7,
+      "lastUsed": 1736142629789
+    },
+    "DIFF": {
+      "usageCount": 20,
+      "lastUsed": 1736143172634
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1735740769783
+    },
+    "WebPreview": {
+      "usageCount": 4,
+      "lastUsed": 1746849141069
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/arun/WebstormProjects/verdict-ai/package.json&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/.prettierignore&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components.json&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/.prettierrc&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/middleware.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/Footer.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/(auth)/layout.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/.gitignore&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/CustomSiderbar.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/CustomSidebar.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ui/input.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/Sidebar.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/globals.css&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ToggleTheme.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/tailwind.config.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/dashboard/chat/page.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/DashboardHeader.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/Header.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/models/chat.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/models/userChats.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/lib/db.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/providers/query-client-provider.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ChatList.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/api/userChats/[userId]/route.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/api/chats/route.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/.env&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/next.config.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/lib/flask-api.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/dashboard/layout.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/hooks/useIsMounted.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/(auth)/(routes)/sign-in/[[...sign-in]]/page.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/(auth)/(routes)/sign-up/[[...sign-up]]/page.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/AppSidebar.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/providers/theme-provider.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/layout.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/dashboard/chat/[chatId]/page.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/dashboard/page.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ui/scroll-area.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ChatPage.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/components/ui/sidebar.tsx&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/api/user/[userId]/chat/[chatId]/route.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/api/userchats/[userId]/route.ts&quot;,
+    &quot;/home/arun/WebstormProjects/verdict-ai/app/page.tsx&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="10" lastUsage="1735821484544" />
+    </language>
+    <language id="DotEnv">
+      <summary usageCount="7" lastUsage="1736142629789" />
+    </language>
+    <language id="ECMAScript 6">
+      <summary usageCount="2" lastUsage="1736061959278" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1735740769783" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="10" lastUsage="1736061331769" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1735648948311" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="61" lastUsage="1736142629747" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="164" lastUsage="1746849131482" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="verdict-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/WebstormProjects/verdict-ai}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="verdict-ai" />
+            <item name="verdict-ai" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/nodes/folder.svg" iconPlugin="com.mallowigi" isLeaf="false" text="verdict-ai" />
+              <item name="dir{file:///home/arun/WebstormProjects/verdict-ai}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.next" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".next" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/.next}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="components" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/components}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/hooks" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="hooks" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/hooks}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="lib" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/models" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="models" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/models}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/providers" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="providers" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/providers}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="public" />
+                <item name="dir{file:///home/arun/WebstormProjects/verdict-ai/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierignore" />
+                <item name=".prettierignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="components.json" />
+                <item name="components.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/middleware.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="middleware.ts" />
+                <item name="middleware.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="next.config.ts" />
+                <item name="next.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next-env.d.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="next-env.d.ts" />
+                <item name="next-env.d.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-lock.yaml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="pnpm-lock.yaml" />
+                <item name="pnpm-lock.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/postcss.config.mjs" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="postcss.config.mjs" />
+                <item name="postcss.config.mjs" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tailwind.config.ts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tailwind.config.ts" />
+                <item name="tailwind.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.prettier:format" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$USER_HOME$/PycharmProjects/Verdict-Keyword-Based" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125128000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30348945" />
+      <window_info id="Commit" order="1" weight="0.30348945" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.5127326" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3388942" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3388942" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.33031458" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3296875" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.3388942" left="0.30348945" right="0.3296875" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Find</value>
+      <value>AIAssistant</value>
+      <value>TODO</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="304" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1735744412761">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="693" y="304" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1735744412761" />
+    <state x="711" y="312" key="FileChooserDialogImpl" timestamp="1735741113384">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="711" y="312" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1735741113384" />
+    <state width="876" height="301" key="GridCell.Tab.0.bottom" timestamp="1735650584132">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1735650584132" />
+    <state width="876" height="301" key="GridCell.Tab.0.center" timestamp="1735650584132">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1735650584132" />
+    <state width="876" height="301" key="GridCell.Tab.0.left" timestamp="1735650584132">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1735650584132" />
+    <state width="876" height="301" key="GridCell.Tab.0.right" timestamp="1735650584132">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1735650584132" />
+    <state x="1434" y="889" width="480" height="148" key="ProcessPopupWindow" timestamp="1735831789236">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1434" y="889" width="480" height="148" key="ProcessPopupWindow/0.31.1920.1049@0.31.1920.1049" timestamp="1735831789236" />
+    <state x="766" y="278" width="378" height="560" key="RollbackChangesDialog" timestamp="1736075160700">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="766" y="278" width="378" height="560" key="RollbackChangesDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1736075160700" />
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor" timestamp="1735907189887">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="904" y="190" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1735907189887" />
+    <state width="498" height="638" key="SwitcherDM" timestamp="1736142329784">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="638" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1736142329784" />
+    <state x="746" y="459" width="417" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1736077413087">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="746" y="459" width="417" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.31.1920.1049@0.31.1920.1049" timestamp="1736077413087" />
+    <state x="1104" y="256" key="run.anything.popup" timestamp="1735749293286">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1104" y="256" key="run.anything.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1735749293286" />
+    <state x="1103" y="248" width="683" height="712" key="search.everywhere.popup" timestamp="1736140464940">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1103" y="248" width="683" height="712" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1736140464940" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ui/button.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/human2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/human1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/CustomSidebar.tsx" />
+    <entry file="file://$PROJECT_DIR$/components/ui/input.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Sidebar.tsx" />
+    <entry file="file://$PROJECT_DIR$/app/dashboard/chat/[chatId]">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/globals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dashboard/chat/page.tsx" />
+    <entry file="file://$PROJECT_DIR$/tailwind.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/2" />
+    <entry file="file://$PROJECT_DIR$/lib/db.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/userChats.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/providers/query-client-provider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <element signature="e#15#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ChatList.tsx" />
+    <entry file="file://$PROJECT_DIR$/app/api/chats/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1361">
+          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/flask-api.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dashboard/layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/chat.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(routes)/sign-in/[[...sign-in]]/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/(auth)/(routes)/sign-up/[[...sign-up]]/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/DashboardHeader.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Footer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Header.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="32" column="15" lean-forward="true" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ToggleTheme.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/providers/theme-provider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/useIsMounted.tsx" />
+    <entry file="file://$PROJECT_DIR$/components/AppSidebar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dashboard/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1814">
+          <caret line="79" column="68" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/types/app/api/user/[userId]/chat/[chatId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/types/app/api/userchats/[userId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3588">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="e#84#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dashboard/chat/[chatId]/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ui/scroll-area.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ChatPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ui/sidebar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ui/sheet.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="50" column="74" lean-forward="true" selection-start-line="50" selection-start-column="74" selection-end-line="50" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/user/[userId]/chat/[chatId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/userchats/[userId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="101" selection-start-line="29" selection-start-column="101" selection-end-line="29" selection-end-column="101" />
+          <folding>
+            <element signature="e#15#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

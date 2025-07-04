@@ -1,0 +1,701 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Airbnb-Clone" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2urfo1jbjz1p7" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"package.json","foregroundColor":-1052687,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-99,1,10,-102,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,97,114,117,110,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,52,46,50,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,112,109,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1721200478851
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1721200484335
+    },
+    "TypeScript": {
+      "usageCount": 42,
+      "lastUsed": 1728661056997
+    },
+    "TypeScript JSX": {
+      "usageCount": 98,
+      "lastUsed": 1728659509049
+    },
+    ".env file": {
+      "usageCount": 4,
+      "lastUsed": 1728910425399
+    },
+    "ECMAScript 6": {
+      "usageCount": 1,
+      "lastUsed": 1727714635691
+    },
+    "JSON": {
+      "usageCount": 5,
+      "lastUsed": 1728910425535
+    },
+    "CSS": {
+      "usageCount": 1,
+      "lastUsed": 1728567703133
+    },
+    "VcsLog": {
+      "usageCount": 1,
+      "lastUsed": 1728650078661
+    },
+    "Prisma": {
+      "usageCount": 3,
+      "lastUsed": 1728658176813
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/next.config.mjs" />
+      <option value="$PROJECT_DIR$/components/Input.tsx" />
+      <option value="$PROJECT_DIR$/app/api/listings/route.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/components/RentModal.tsx" />
+      <option value="$PROJECT_DIR$/components/ImageUpload.tsx" />
+      <option value="$PROJECT_DIR$/components/EmptyState.tsx" />
+      <option value="$PROJECT_DIR$/actions/getCurrentUser.ts" />
+      <option value="$PROJECT_DIR$/app/api/favorites/[listingId]/route.ts" />
+      <option value="$PROJECT_DIR$/hooks/useFavorite.ts" />
+      <option value="$PROJECT_DIR$/components/listing/HeartButton.tsx" />
+      <option value="$PROJECT_DIR$/actions/getListingById.ts" />
+      <option value="$PROJECT_DIR$/components/listing/ListingHead.tsx" />
+      <option value="$PROJECT_DIR$/components/listing/ListingCategory.tsx" />
+      <option value="$PROJECT_DIR$/components/listing/ListingInfo.tsx" />
+      <option value="$PROJECT_DIR$/components/inputs/Calendar.tsx" />
+      <option value="$PROJECT_DIR$/app/globals.css" />
+      <option value="$PROJECT_DIR$/components/listing/ListingReservation.tsx" />
+      <option value="$PROJECT_DIR$/app/api/reservations/route.ts" />
+      <option value="$PROJECT_DIR$/actions/getReservations.ts" />
+      <option value="$PROJECT_DIR$/app/listings/[listingId]/page.tsx" />
+      <option value="$PROJECT_DIR$/types/index.ts" />
+      <option value="$PROJECT_DIR$/app/trips/page.tsx" />
+      <option value="$PROJECT_DIR$/app/trips/TripsClient.tsx" />
+      <option value="$PROJECT_DIR$/components/listing/ListingCard.tsx" />
+      <option value="$PROJECT_DIR$/app/api/reservations/[reservationId]/route.ts" />
+      <option value="$PROJECT_DIR$/app/reservations/ReservationsClient.tsx" />
+      <option value="$PROJECT_DIR$/components/RegisterModal.tsx" />
+      <option value="$PROJECT_DIR$/actions/getFavoriteListings.ts" />
+      <option value="$PROJECT_DIR$/app/reservations/page.tsx" />
+      <option value="$PROJECT_DIR$/app/favorites/page.tsx" />
+      <option value="$PROJECT_DIR$/app/favorites/FavoritesClient.tsx" />
+      <option value="$PROJECT_DIR$/app/listings/[listingId]/ListingClient.tsx" />
+      <option value="$PROJECT_DIR$/components/UserMenu.tsx" />
+      <option value="$PROJECT_DIR$/app/properties/PropertiesClient.ts" />
+      <option value="$PROJECT_DIR$/app/properties/page.tsx" />
+      <option value="$PROJECT_DIR$/app/page.tsx" />
+      <option value="$PROJECT_DIR$/app/properties/PropertiesClient.tsx" />
+      <option value="$PROJECT_DIR$/app/api/listings/[listingId]/route.ts" />
+      <option value="$PROJECT_DIR$/hooks/useSearchModal.ts" />
+      <option value="$PROJECT_DIR$/components/Search.tsx" />
+      <option value="$PROJECT_DIR$/app/layout.tsx" />
+      <option value="$PROJECT_DIR$/components/modals/SearchModal.tsx" />
+      <option value="$PROJECT_DIR$/actions/getListings.ts" />
+      <option value="$PROJECT_DIR$/app/Loading.tsx" />
+      <option value="$PROJECT_DIR$/components/Loader.tsx" />
+      <option value="$PROJECT_DIR$/app/loading.tsx" />
+      <option value="$PROJECT_DIR$/app/error.tsx" />
+      <option value="$PROJECT_DIR$/components/navbar/Search.tsx" />
+      <option value="$PROJECT_DIR$/middleware.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1728567703133" />
+    </language>
+    <language id="DotEnv">
+      <summary usageCount="4" lastUsage="1728910425402" />
+    </language>
+    <language id="ECMAScript 6">
+      <summary usageCount="1" lastUsage="1727714635691" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="5" lastUsage="1728910425535" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1721200478853" />
+    </language>
+    <language id="Prisma">
+      <summary usageCount="3" lastUsage="1728658176813" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="42" lastUsage="1728661056997" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="98" lastUsage="1728659509049" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41011000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338542" />
+      <window_info id="Commit" order="1" sideWeight="0.5005388" weight="0.25338542" />
+      <window_info id="Bookmarks" order="2" side_tool="true" weight="0.3776042" />
+      <window_info id="Structure" order="3" sideWeight="0.4994612" side_tool="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.28265014" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.315062" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28265014" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3305" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.315062" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3307292" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33035713" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" />
+      <unified_weights bottom="0.28265014" left="0.25338542" right="0.3307292" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+      <value>AIAssistant</value>
+      <value>Run</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="294" width="824" height="528" key="IDE.errors.dialog" timestamp="1727884930346">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="543" y="294" width="824" height="528" key="IDE.errors.dialog/0.31.1920.1049@0.31.1920.1049" timestamp="1727884930346" />
+    <state x="464" y="190" width="1016" height="736" key="SettingsEditor" timestamp="1728650022150">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="464" y="190" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1728650022150" />
+    <state x="464" y="191" width="992" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1721202526660" />
+    <state width="498" height="488" key="SwitcherDM" timestamp="1728659454429">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="488" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1728659454429" />
+    <state width="498" height="487" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1721200743612" />
+    <state x="1226" y="473" width="427" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1728570854179">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1226" y="473" width="427" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.31.1920.1049@0.31.1920.1049" timestamp="1728570854179" />
+    <state x="834" y="430" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1721200773697">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="834" y="430" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.32.1920.1048@0.32.1920.1048" timestamp="1721200773697" />
+    <state x="623" y="260" width="683" height="713" key="search.everywhere.popup" timestamp="1728658047567">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="623" y="260" width="683" height="713" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1728658047567" />
+    <state x="623" y="261" width="672" height="712" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1721201087550" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/api/favorites/[listingId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/useFavorite.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/HeartButton.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/getListingById.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listing/ListingCategory.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <element signature="e#13#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listing/ListingHead.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="72" selection-start-line="45" selection-start-column="72" selection-end-line="45" selection-end-column="72" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listing/ListingInfo.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <folding>
+            <element signature="e#13#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/inputs/Calendar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/globals.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listing/ListingReservation.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/reservations/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listings/[listingId]/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/EmptyState.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ClientOnly.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listing/ListingCard.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="95" column="41" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/reservations/[reservationId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/trips/TripsClient.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/trips/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/modals/RegisterModal.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/getFavoriteListings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favorites/FavoritesClient.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/favorites/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reservations/ReservationsClient.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="44" column="28" selection-start-line="44" selection-end-line="45" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reservations/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#17#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/getReservations.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listings/[listingId]/ListingClient.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="74" column="32" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+          <folding>
+            <element signature="e#14#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/properties/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/properties/PropertiesClient.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/navbar/UserMenu.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="84" column="70" selection-start-line="84" selection-start-column="70" selection-end-line="84" selection-end-column="70" />
+          <folding>
+            <element signature="e#15#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1828112149&quot;,&quot;projectHash&quot;:&quot;43b65bf8&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;main&quot;,&quot;inclusiveRef&quot;:&quot;origin/main&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/arun/WebstormProjects/Airbnb-Clone&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/listings/[listingId]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/useRentModal.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks/useSearchModal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/modals/RentModal.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1707">
+          <caret line="204" column="9" selection-end-line="261" />
+          <folding>
+            <element signature="e#15#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/modals/LoginModal.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/modals/Modal.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#1#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/modals/SearchModal.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="168" column="22" lean-forward="true" selection-start-line="168" selection-start-column="22" selection-end-line="168" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prisma/schema.prisma">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Loader.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/getListings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/loading.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/error.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/navbar/Search.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="e#15#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/auth/[...nextauth]/options.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
