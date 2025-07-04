@@ -1,0 +1,1124 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Java-Basics-DS" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1f2bcj1c0qipk" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 43,
+      &quot;lastUsed&quot;: 1725860181135
+    },
+    &quot;WebPreview&quot;: {
+      &quot;usageCount&quot;: 5,
+      &quot;lastUsed&quot;: 1725280964656
+    },
+    &quot;IDEA_MODULE&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1725280981340
+    },
+    &quot;PLAIN_TEXT&quot;: {
+      &quot;usageCount&quot;: 2,
+      &quot;lastUsed&quot;: 1725774121147
+    },
+    &quot;GitIgnore file&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1725779313272
+    }
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Basics/MethodOverriding.java" />
+      <option value="$PROJECT_DIR$/Basics/ThisKeyword.java" />
+      <option value="$PROJECT_DIR$/Basics/FinalKeyword.java" />
+      <option value="$PROJECT_DIR$/Basics/SuperKeyword.java" />
+      <option value="$PROJECT_DIR$/Basics/StaticKeyword.java" />
+      <option value="$PROJECT_DIR$/Basics/Methods.java" />
+      <option value="$PROJECT_DIR$/Basics/Abstraction.java" />
+      <option value="$PROJECT_DIR$/Basics/InnerClass.java" />
+      <option value="$PROJECT_DIR$/Basics/AnonymousInnerClass.java" />
+      <option value="$PROJECT_DIR$/Basics/Interface.java" />
+      <option value="$PROJECT_DIR$/Basics/MultipleInheritance.java" />
+      <option value="$PROJECT_DIR$/Basics/FunctionalInterface.java" />
+      <option value="$PROJECT_DIR$/Basics/MarkerInterface.java" />
+      <option value="$PROJECT_DIR$/Basics/Enum.java" />
+      <option value="$PROJECT_DIR$/Basics/Arrays.java" />
+      <option value="$PROJECT_DIR$/Basics/Multithreading1.java" />
+      <option value="$PROJECT_DIR$/Basics/Multithreading2.java" />
+      <option value="$PROJECT_DIR$/Basics/Strings.java" />
+      <option value="$PROJECT_DIR$/Basics/StringBuilder.java" />
+      <option value="$PROJECT_DIR$/Basics/StringBuffer.java" />
+      <option value="$PROJECT_DIR$/Basics/StringBufferDemo.java" />
+      <option value="$PROJECT_DIR$/Basics/WrapperDemo.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1725779313272" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="43" lastUsage="1725860181135" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1725774121147" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Basics-DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Basics-DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS/Basics}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Java-Basics-DS" />
+            <item name="Java-Basics-DS" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/nodes/Module.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Java-Basics-DS" />
+              <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Basics" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/modules/sourceRoot.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Basics" />
+                <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS/Basics}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/A.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="A.class" />
+                  <item name="A.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AbstractDemo1.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="AbstractDemo1.class" />
+                  <item name="AbstractDemo1.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AbstractDemo2.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="AbstractDemo2.class" />
+                  <item name="AbstractDemo2.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Abstraction.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Abstraction.class" />
+                  <item name="Abstraction.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Abstraction.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Abstraction.java" />
+                  <item name="Abstraction.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AnonymousDemo.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="AnonymousDemo.class" />
+                  <item name="AnonymousDemo.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AnonymousInnerClass$1.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="AnonymousInnerClass$1.class" />
+                  <item name="AnonymousInnerClass$1.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AnonymousInnerClass.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="AnonymousInnerClass.class" />
+                  <item name="AnonymousInnerClass.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/AnonymousInnerClass.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="AnonymousInnerClass.java" />
+                  <item name="AnonymousInnerClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Arrays.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Arrays" />
+                  <item name="Arrays" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/ClassesAndObjects.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="ClassesAndObjects.java" />
+                  <item name="ClassesAndObjects.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Conditional.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Conditional" />
+                  <item name="Conditional" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/ConstructorOverloading.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="ConstructorOverloading.java" />
+                  <item name="ConstructorOverloading.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Constructors.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Constructors.java" />
+                  <item name="Constructors.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/datatypes.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="datatypes" />
+                  <item name="datatypes" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Encapsulation.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Encapsulation.java" />
+                  <item name="Encapsulation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Enum.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Enum.java" />
+                  <item name="Enum.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/FinalKeyword.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="FinalKeyword.java" />
+                  <item name="FinalKeyword.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/ForEachLoop.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ForEachLoop" />
+                  <item name="ForEachLoop" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/ForEachLoop.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="ForEachLoop.class" />
+                  <item name="ForEachLoop.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/FunctionalInterface.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="FunctionalInterface.java" />
+                  <item name="FunctionalInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Hello.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Hello.class" />
+                  <item name="Hello.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/helloworld.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="helloworld" />
+                  <item name="helloworld" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Hii.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Hii.class" />
+                  <item name="Hii.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/InnerClass.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="InnerClass.class" />
+                  <item name="InnerClass.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/InnerClass.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="InnerClass.java" />
+                  <item name="InnerClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Interface.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Interface.class" />
+                  <item name="Interface.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Interface.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Interface.java" />
+                  <item name="Interface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/InterfaceDemo.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="InterfaceDemo.class" />
+                  <item name="InterfaceDemo.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/JaggedArray.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="JaggedArray" />
+                  <item name="JaggedArray" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/LargestElementInArray.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="LargestElementInArray" />
+                  <item name="LargestElementInArray" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Loops.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Loops" />
+                  <item name="Loops" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MarkerInterface.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="MarkerInterface.java" />
+                  <item name="MarkerInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MatrixAddition.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="MatrixAddition" />
+                  <item name="MatrixAddition" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MatrixMultiplication.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="MatrixMultiplication" />
+                  <item name="MatrixMultiplication" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MethodExample.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="MethodExample.class" />
+                  <item name="MethodExample.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MethodOverloading.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="MethodOverloading.java" />
+                  <item name="MethodOverloading.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MethodOverriding.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="MethodOverriding.java" />
+                  <item name="MethodOverriding.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Methods.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Methods.class" />
+                  <item name="Methods.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Methods.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Methods.java" />
+                  <item name="Methods.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/MultipleInheritance.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="MultipleInheritance.java" />
+                  <item name="MultipleInheritance.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Multithreading1.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Multithreading1.class" />
+                  <item name="Multithreading1.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Multithreading1.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Multithreading1.java" />
+                  <item name="Multithreading1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Multithreading2.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Multithreading2.java" />
+                  <item name="Multithreading2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Operators.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Operators" />
+                  <item name="Operators" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/OuterClass$1MethodLocalInner.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="OuterClass$1MethodLocalInner.class" />
+                  <item name="OuterClass$1MethodLocalInner.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/OuterClass$Inner.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="OuterClass$Inner.class" />
+                  <item name="OuterClass$Inner.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/OuterClass$PrivateInner.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="OuterClass$PrivateInner.class" />
+                  <item name="OuterClass$PrivateInner.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/OuterClass$StaticInner.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="OuterClass$StaticInner.class" />
+                  <item name="OuterClass$StaticInner.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/OuterClass.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="OuterClass.class" />
+                  <item name="OuterClass.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Patterns.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Patterns.java" />
+                  <item name="Patterns.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Static1.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Static1.class" />
+                  <item name="Static1.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/StaticKeyword.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="StaticKeyword.class" />
+                  <item name="StaticKeyword.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/StaticKeyword.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="StaticKeyword.java" />
+                  <item name="StaticKeyword.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/StringBufferDemo.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="StringBufferDemo" />
+                  <item name="StringBufferDemo" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Strings.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Strings" />
+                  <item name="Strings" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/SumOfDiagonal.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SumOfDiagonal" />
+                  <item name="SumOfDiagonal" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Super1.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Super1.class" />
+                  <item name="Super1.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Super2.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Super2.class" />
+                  <item name="Super2.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/SuperKeyword.class" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/javaClass.svg" iconPlugin="com.mallowigi" isLeaf="true" text="SuperKeyword.class" />
+                  <item name="SuperKeyword.class" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/SuperKeyword.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="SuperKeyword.java" />
+                  <item name="SuperKeyword.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/ThisKeyword.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="ThisKeyword.java" />
+                  <item name="ThisKeyword.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/TranposeOfAMatrix.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TranposeOfAMatrix" />
+                  <item name="TranposeOfAMatrix" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/TwoDimensionalArray.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="TwoDimensionalArray" />
+                  <item name="TwoDimensionalArray" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/UserInput.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserInput" />
+                  <item name="UserInput" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/UserInputBuffered.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="UserInputBuffered" />
+                  <item name="UserInputBuffered" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Basics/Vargs.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="files/fileTypes/java.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Vargs.java" />
+                  <item name="Vargs.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="out" />
+                <item name="dir{file:///home/arun/IdeaProjects/Java-Basics-DS/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Java-Basics-DS.iml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Java-Basics-DS.iml" />
+                <item name="Java-Basics-DS.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/markerinterface.txt" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="markerinterface.txt" />
+                <item name="markerinterface.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/Basics">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25455000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Settings Sync History" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" weight="0.16484375" />
+      <window_info id="Bookmarks" order="2" show_stripe_button="false" side_tool="true" weight="0.3307292" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33031458" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33031458" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33031458" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.33031458" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3296875" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" show_stripe_button="false" weight="0.3296875" />
+      <unified_weights bottom="0.33031458" left="0.32994792" right="0.3296875" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+      <value>Tabnine Chat</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1232" y="244" width="406" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1725771051762">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1232" y="244" width="406" height="628" key="#com.intellij.ide.util.MemberChooser/0.31.1920.1049@0.31.1920.1049" timestamp="1725771051762" />
+    <state width="876" height="301" key="GridCell.Tab.0.bottom" timestamp="1725860660469">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.bottom/0.31.1920.1049@0.31.1920.1049" timestamp="1725860660469" />
+    <state width="1316" height="286" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1721225750273" />
+    <state width="876" height="301" key="GridCell.Tab.0.center" timestamp="1725860660469">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.center/0.31.1920.1049@0.31.1920.1049" timestamp="1725860660469" />
+    <state width="1316" height="286" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1721225750273" />
+    <state width="876" height="301" key="GridCell.Tab.0.left" timestamp="1725860660469">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.left/0.31.1920.1049@0.31.1920.1049" timestamp="1725860660469" />
+    <state width="1316" height="286" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1721225750273" />
+    <state width="876" height="301" key="GridCell.Tab.0.right" timestamp="1725860660469">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="876" height="301" key="GridCell.Tab.0.right/0.31.1920.1049@0.31.1920.1049" timestamp="1725860660469" />
+    <state width="1316" height="286" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1721225750273" />
+    <state x="684" y="173" width="1016" height="736" key="SettingsEditor" timestamp="1725281400767">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="684" y="173" width="1016" height="736" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1725281400767" />
+    <state x="684" y="174" width="1016" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1721225697695" />
+    <state width="498" height="610" key="SwitcherDM" timestamp="1725850358810">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state width="498" height="610" key="SwitcherDM/0.31.1920.1049@0.31.1920.1049" timestamp="1725850358810" />
+    <state x="1104" y="256" key="run.anything.popup" timestamp="1725851653842">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1104" y="256" key="run.anything.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1725851653842" />
+    <state x="623" y="260" width="683" height="712" key="search.everywhere.popup" timestamp="1725860181095">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="623" y="260" width="683" height="712" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1725860181095" />
+    <state x="623" y="261" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1721225559232" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Basics/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Vargs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/MethodOverriding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Basics-DS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/ThisKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/SuperKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/StaticKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/FinalKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#50#51#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Abstraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/AnonymousInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#48#49#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#210#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/InnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#1638#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/MultipleInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markerinterface.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/MarkerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/ForEachLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/UserInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/WrapperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/StringBufferDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Multithreading2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Multithreading1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
